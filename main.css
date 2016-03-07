@@ -1,0 +1,38 @@
+html {
+  
+  margin: auto0;
+  margin-left: inherit;
+  margin-right: inherit;
+  
+}
+
+.line {
+  height: 2px;
+  background-color: orange;
+  display: block;
+}
+
+p {
+  color: grey;
+  font-family: Verdana;
+}
+img {
+  display: inline-block;
+  height: 250px;
+  width: 250px;
+  border: 1px solid orange;
+}
+
+h2 {
+  color: orange;
+}
+h1 {
+  color: grey;
+  font-family: Impact;
+}
+
+.quote {
+  color: orange;
+  font-family: Verdana;
+  
+}
